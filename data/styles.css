@@ -1,0 +1,143 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_2 {
+}
+.box_3 {
+}
+.image {
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.shape {
+}
+._input_text {
+  font-family:'RobotoLight';
+  font-weight:normal;
+  font-style:normal;
+  font-size:16px;
+  color:rgba(0, 0, 0, 0.498039215686275);
+  text-align:left;
+}
+.paragraph {
+  font-family:'GothamLight';
+  font-weight:normal;
+  font-style:normal;
+  font-size:16px;
+  color:#FFFFFF;
+  text-align:left;
+}
+._box-video_title {
+  font-family:'Austhina';
+  font-weight:400;
+  font-style:normal;
+  font-size:40px;
+  letter-spacing:1.5px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.line {
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.horizontal_line {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+._box_title {
+  font-family:'BebasNeue';
+  font-weight:700;
+  font-style:normal;
+  font-size:54px;
+  letter-spacing:2.2px;
+  color:#FFFFFF;
+  text-align:center;
+}
+._header-menu_default {
+  font-family:'GothamLight';
+  font-weight:normal;
+  font-style:normal;
+  font-size:16px;
+  letter-spacing:0.6px;
+  color:#FFFFFF;
+  text-align:left;
+}
+._header-menu_small {
+  font-family:'GothamLight';
+  font-weight:normal;
+  font-style:normal;
+  font-size:14px;
+  letter-spacing:0.8px;
+  color:#FFFFFF;
+  text-align:left;
+}
+._box_link {
+  font-family:'Roboto-Regular', 'Roboto';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:0.4px;
+  color:#FFFFFF;
+  text-align:center;
+}
+.icon {
+}
+.heading_1 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'ArialMT', 'Arial';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.flow_shape {
+}
